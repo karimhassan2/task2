@@ -1,0 +1,13 @@
+{
+  "name": "MyProcess",
+  "description": "Short desc",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "projectType": "Workflow",
+  "runtimes": {},
+  "jsonClass": "Project",
+  "studioVersion": "22.10.4.0",
+  "projectVersion": "1.0.0",
+  "version": "1.0.0"
+}
+

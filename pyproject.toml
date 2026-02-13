@@ -1,9 +1,6 @@
 [project]
-name = "test1"
-version = "0.0.1"
-description = "Description for test1 project"
-authors = [{ name = "John Doe", email = "john.doe@myemail.com" }]
-dependencies = [
-    "uipath-mcp>=0.0.106",
-]
-requires-python = ">=3.11"
+name = "my-package"
+version = "0.1.0"
+description = "Short description"
+authors = [{name="Your Name", email="you@example.com"}]
+
